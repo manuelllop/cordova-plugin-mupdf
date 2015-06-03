@@ -1,2 +1,2 @@
 # cordova-plugin-mupdf
-A Cordova plugin for the Android platform to open a muPdf activity
+A Cordova plugin for Android and iOS platform to open a muPdf activity
